@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Project Name - Inteli AI Tester
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
