@@ -30,7 +30,7 @@ A brief overview of your project and its purpose. Mention which problem statemen
  1. We Used Auto gen (Agentic AI Framework), RAG , Function Calling and Structured output. And used Open AI gpt-4o and gpt-3.5-turbo models.
  2. Used text-embedding-ada-002 for text embedding for RAG Agents
  3. And we used Structured ouput to identify the changes in the Funcitonal document for self healing
- 4. 
+ 4. Used difflib to identify the differences between two funcitonal documents
 
 ## 🚧 Challenges We Faced
 My Open AI  Threashold limit reached. So i have Partially completed the demo video on Self Healing part. But other parts i have captured. If required i can show a live demo with some other LLM (from GROQ)
@@ -42,11 +42,18 @@ My Open AI  Threashold limit reached. So i have Partially completed the demo vid
    ```
 2. Install dependencies  
    ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
+   pip install -r requirements.txt
    ```
+4. Environment Configuration
+    Create .env file at the root and configure below env variables
+   
+   BDDFILESPATH=<localsource code path>\pytestexplore\generated\bdd\      (This where the BDD feature files and python test case files will be generated)
+   FUNCTIONAL_DOCS_PATH=<localsource code path>\GenAITester\documents     (Copy required funcitonal documentations for API/ Microservice applicaiton. This will by used by RAG Agents)
+   MODIFED_FUNCTIONAL_DOCS_PATH=<localsource code path>\GenAITester\documentsmodified  ( **SELF HEALING**  Copy the any modified/ updated funcitonal documentation files.  This will by used by RAG Agents)
 3. Run the project  
    ```sh
-   npm start  # or python app.py
+   cd GenAITester
+   python main.py
    ```
 
 ## 🏗️ Tech Stack
