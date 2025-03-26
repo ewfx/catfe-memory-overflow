@@ -46,13 +46,7 @@ My Open AI  Threashold limit reached. So i have Partially completed the demo vid
    cd GenAITester
    python main.py
    ```
-
-## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
-
+ 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- **Saravana Manikandan Nagarajan** - [GitHub](#) | [LinkedIn](#)
+
