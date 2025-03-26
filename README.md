@@ -12,8 +12,8 @@
 ## Completed Items / Achievements
 **Built and an Multi Agent system (Around 10 + Agents ) are working together 
 And providing the complete AI Testing suit.**
-1. BDD Test cases generated  based **Functional Document** +** API Document **(Swagger)
-2. PyTest Test cases generation based on **BDD Feature files**  +** Functional Document** + **API Document**
+1. BDD Test cases generated  based **Functional Document** + **API Document**(Swagger)
+2. PyTest Test cases generation based on **BDD Feature files**  +**Functional Document** + **API Document**
 3. Agents will Automatically identifying the Documents and mapping it with Swagger document
 4. API Test Data Schema Identification before generating the test data
 5. Agents having ability to Link between BDD files and Python Test Files
