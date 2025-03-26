@@ -1,5 +1,5 @@
 # 🚀 Project Name - Context Aware Testing System 
-![image](https://github.com/user-attachments/assets/0a5a5357-f944-49b1-8a3d-fe41340bbeef)
+ 
 ## Team Name - Memory Overflow
 
 ## 📌 Table of Contents
