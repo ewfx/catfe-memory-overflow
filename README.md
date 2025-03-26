@@ -39,7 +39,7 @@ My Open AI  Threashold limit reached. So i have Partially completed the demo vid
     Create .env file at the root and configure below env variables   
    - BDDFILESPATH=<localsource code path>\pytestexplore\generated\bdd\      (This where the BDD feature files and python test case files will be generated)
    - FUNCTIONAL_DOCS_PATH=<localsource code path>\GenAITester\documents     (Copy required funcitonal documentations for API/ Microservice applicaiton. This will by used by RAG Agents)
-   - MODIFED_FUNCTIONAL_DOCS_PATH=<localsource code path>\GenAITester\documentsmodified  ( **SELF HEALING**  Copy the any modified/ updated funcitonal documentation files.  This will by used by RAG Agents)
+   - MODIFED_FUNCTIONAL_DOCS_PATH=<localsource code path>\GenAITester\documentsmodified  (For a  **SELF HEALING**  Copy the any modified/ updated funcitonal documentation files.  This will by used by RAG Agents)
    - OPENAI_API_KEY=<OpenAI Key>  (Name should be OPEN AI but initially miss spelled it )
 3. Run the project  
    ```sh
