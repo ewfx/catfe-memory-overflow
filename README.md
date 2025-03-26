@@ -24,15 +24,13 @@ A brief overview of your project and its purpose. Mention which problem statemen
 🖼️ Screenshots:
 
 ![Screenshot 1](link-to-image)
-
-## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
-
-## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+ 
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+ 1. We Used Auto gen (Agentic AI Framework), RAG , Function Calling and Structured output. And used Open AI gpt-4o and gpt-3.5-turbo models.
+ 2. Used text-embedding-ada-002 for text embedding for RAG Agents
+ 3. And we used Structured ouput to identify the changes in the Funcitonal document for self healing
+ 4. 
 
 ## 🚧 Challenges We Faced
 My Open AI  Threashold limit reached. So i have Partially completed the demo video on Self Healing part. But other parts i have captured. If required i can show a live demo with some other LLM (from GROQ)
