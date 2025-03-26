@@ -35,7 +35,7 @@ Explain the key features and functionalities of your project.
 Briefly outline the technologies, frameworks, and tools used in development.
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+My Open AI  Threashold limit reached. So i have Partially completed the demo video on Self Healing part. But other parts i have captured. If required i can show a live demo with some other LLM (from GROQ)
 
 ## 🏃 How to Run
 1. Clone the repository  
