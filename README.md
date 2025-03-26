@@ -20,8 +20,10 @@
  1. We Used Auto gen (Agentic AI Framework), RAG , Function Calling and Structured output. And used Open AI gpt-4o and gpt-3.5-turbo models.
  2. Used text-embedding-ada-002 for text embedding for RAG Agents
  3. Used PyTest for API test cases
- 4. And we used Structured ouput to identify the changes in the Funcitonal document for self healing
- 5. Used difflib to identify the differences between two funcitonal documents
+ 4. Used Chroma as Vector DB
+ 5. Requests - For API Calls
+ 6. And we used Structured ouput to identify the changes in the Funcitonal document for self healing
+ 7. Used difflib to identify the differences between two funcitonal documents
 
 ## 🚧 Challenges We Faced
 My Open AI  Threashold limit reached. So i have Partially completed the demo video on Self Healing part. But other parts i have captured. If required i can show a live demo with some other LLM (from GROQ)
