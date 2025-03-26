@@ -11,7 +11,7 @@
 
 ## Completed Items / Achievements
 **Built and an Multi Agent system (Around 10 + Agents ) are working together 
-And providing the complete AI Testing suit.**
+And providing the complete AI Testing suit**
 1. BDD Test cases generated  based **Functional Document** + **API Document**(Swagger)
 2. PyTest Test cases generation based on **BDD Feature files**  +**Functional Document** + **API Document**
 3. Agents will Automatically identifying the Documents and mapping it with Swagger document
@@ -32,7 +32,7 @@ And providing the complete AI Testing suit.**
  
 
 ## 🛠️ How We Built It
- 1. We Used Auto gen (Agentic AI Framework), RAG , Function Calling and Structured output. And used Open AI gpt-4o and gpt-3.5-turbo models.
+ 1. We Used **Auto gen** (Agentic AI Framework), **RAG** , **Function Calling and Structured output**. And used Open AI gpt-4o and gpt-3.5-turbo models.
  2. Used text-embedding-ada-002 for text embedding for RAG Agents
  3. Used PyTest for API test cases
  4. Used Chroma as Vector DB
