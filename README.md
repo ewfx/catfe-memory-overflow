@@ -3,9 +3,8 @@
 ## Team Name - Memory Overflow
 
 ## 📌 Table of Contents
-- We used - Auto gen (Agentic AI Framework), RAG , Function Calling and Structured output
 - Demo videos are uploaded to artifacts.
-- Architecture diagram uploaded 
+- Architecture diagram uploaded to arch folder 
 - This application can perfrom
   1. BDD Feature file generation based on Functional Documentaiton and OpenAPI (Swagger Documentation)
   2. Able to Generate the PyTest Test cases for API
