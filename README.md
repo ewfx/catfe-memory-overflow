@@ -1,14 +1,15 @@
 # 🚀 Project Name - Inteli AI Tester
 
 ## 📌 Table of Contents
-- [Introduction](#introduction)
-- [Demo](#demo)
+- We used - Auto gen (Agentic AI Framework), RAG , Function Calling and Structured output
+- Demo videos are uploaded to artifacts.
+- Architecture diagram uploaded 
 - [Inspiration](#inspiration)
 - [What It Does](#what-it-does)
 - [How We Built It](#how-we-built-it)
 - [Challenges We Faced](#challenges-we-faced)
 - [How to Run](#how-to-run)
-- [Tech Stack](#tech-stack)
+- [Tech Stack] - Auto gen (Agentic AI Framework), Python, PyTest (Testing framework)
 - [Team](#team)
 
 ---
