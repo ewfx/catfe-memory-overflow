@@ -1,15 +1,29 @@
 # 🚀 Project Name - Context Aware Testing System 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/0a5a5357-f944-49b1-8a3d-fe41340bbeef)
 ## Team Name - Memory Overflow
 
 ## 📌 Table of Contents
 - Demo videos are uploaded to artifacts.
-- Architecture diagram uploaded to arch folder 
-- This application can perfrom
-  1. BDD Feature file generation based on Functional Documentaiton and OpenAPI (Swagger Documentation)
-  2. Able to Generate the PyTest Test cases for API
-  3. Gen AI help to update the existing Test cases/ BDD  feature files
-  4. Self healing the BDD Feature file and  PyTest Test Cases
+- Architecture diagram uploaded to arch folder
+- PPD Uploaded into the artifacts Folder
+- (For reference ) Uploaded Generated Feature files and python test cases under (artifacts/Generated_BDD_PyTest)
+- 
+
+## Completed Items / Achievements
+**Built and an Multi Agent system (Around 10 + Agents ) are working together 
+And providing the complete AI Testing suit.**
+1. BDD Test cases generated  based Functional Document and API Document (Swagger)
+2. PyTest Test cases generation based on BDD Feature files, Functional Document and API Document
+3. Agents will Automatically identifying the Documents and mapping it with Swagger document
+4. API Test Data Schema Identification before generating the test data
+5. Link between BDD files and Python Test Files 
+6. Ability to identify difference between two functional document versions and understand the context
+7. Agents will understand the  Testing Pre-Request Context to automatically setup the Test user and Authentication Context 
+8. (If user wants) Ability for the users to modify the existing Feature files and update the test cases Using Gen AI Agent (Demo Added)
+9. Agents having Self healing ability if there is any update/addition in  Functional Document or API Document and update the multiple BDD Files and PyTest Files
+
+![Uploading image.png…]()
+
 
 
 ---
