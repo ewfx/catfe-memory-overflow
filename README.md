@@ -4,13 +4,12 @@
 - We used - Auto gen (Agentic AI Framework), RAG , Function Calling and Structured output
 - Demo videos are uploaded to artifacts.
 - Architecture diagram uploaded 
-- [Inspiration](#inspiration)
-- [What It Does](#what-it-does)
-- [How We Built It](#how-we-built-it)
-- [Challenges We Faced](#challenges-we-faced)
-- [How to Run](#how-to-run)
-- [Tech Stack] - Auto gen (Agentic AI Framework), Python, PyTest (Testing framework)
-- [Team](#team)
+- This application can perfrom
+  1. BDD Feature file generation based on Functional Documentaiton and OpenAPI (Swagger Documentation)
+  2. Able to Generate the PyTest Test cases for API
+  3. Gen AI help to update the existing Test cases/ BDD  feature files
+  4. Self healing the BDD Feature file and  PyTest Test Cases
+
 
 ---
 
