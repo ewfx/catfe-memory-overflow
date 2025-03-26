@@ -41,8 +41,8 @@ And providing the complete AI Testing suit.**
  7. Used difflib to identify the differences between two funcitonal documents
 
 ## 🚧 Challenges We Faced
-My Open AI  Threashold limit reached. So i have Partially completed the demo video on Self Healing part. But other parts i have captured. If required i can show a live demo with some other LLM (from GROQ)
-Not able to Upload complete Demo Video as the size exeeds the limit. So i have splitted it 12 video files and uploaded. please watch files in the order number provided
+- My Open AI  Threashold limit reached. So i have Partially completed the demo video on Self Healing part. But other parts i have captured. If required i can show a live demo with some other LLM (from GROQ)
+- Not able to Upload complete Demo Video as the size exeeds the limit. So i have splitted it 12 video files and uploaded. please watch files in the order number provided
 
 ## 🏃 How to Run
 1. Clone the repository  
