@@ -2,12 +2,13 @@
  
 ## Team Name - Memory Overflow
 
-## 📌 Table of Contents
+## 📌 Artifacts provided
 - Demo videos are uploaded to artifacts.
 - Architecture diagram uploaded to arch folder
-- PPD Uploaded into the artifacts Folder
+- PPD Uploaded into the artifacts Folder 
 - (For reference ) Uploaded Generated Feature files and python test cases under (artifacts/Generated_BDD_PyTest)
-- 
+- Sample Banking API Application
+- Functional Documents, Testing Context Document, Swagger documents (Attached inside PPT)
 
 ## Completed Items / Achievements
 **Built and an Multi Agent system (Around 10 + Agents ) are working together 
@@ -22,12 +23,11 @@ And providing the complete AI Testing suit**
 8. Agents will understand the  Testing Pre-Request Context to automatically setup the Test user and Authentication Context 
 9. (If user wants) Team of Agents help the users to modify the existing Feature files and update the test cases
 10. Agents having **Self healing ability ** if there is any update/addition in  Functional Document or API Document and update the multiple BDD Files and PyTest Files
-
-![image](https://github.com/user-attachments/assets/9452a9f1-2263-46f6-8be1-5ec1e9bab0b1)
+ 
 
 ## Architecture Diagram
+![image](https://github.com/user-attachments/assets/77a32fb5-e3f3-4b00-a72a-ffb3faf92f9c)
 
-![Uploading image.png…]()
 
 ---
  
