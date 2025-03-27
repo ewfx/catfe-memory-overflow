@@ -23,9 +23,11 @@ And providing the complete AI Testing suit**
 9. (If user wants) Team of Agents help the users to modify the existing Feature files and update the test cases
 10. Agents having **Self healing ability ** if there is any update/addition in  Functional Document or API Document and update the multiple BDD Files and PyTest Files
 
+![image](https://github.com/user-attachments/assets/9452a9f1-2263-46f6-8be1-5ec1e9bab0b1)
+
+## Architecture Diagram
+
 ![Uploading image.png…]()
-
-
 
 ---
  
